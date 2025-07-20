@@ -1,1 +1,1 @@
-This is the description of my repo
+## GitHub Branching Task\nThis repository demonstrates branching and merging in Git.
